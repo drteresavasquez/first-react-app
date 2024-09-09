@@ -1,10 +1,10 @@
 # Random Useless Facts
 
-This is our first react project! We will be implement everything we have learned so far and other topic to see them in action.
+This is our first react project! We will be implement everything we have learned so far and other topics to see them in action.
 
 ## API
 
-We will be using the [HTTP API for useless facts](https://uselessfacts.jsph.pl/). If you have never used an API, this will seem weird how the docs are writen. 
+We will be using the [HTTP API for useless facts](https://uselessfacts.jsph.pl/). If you have never used an API, this will seem weird how the docs are written. 
 
 The routes that you are given are preceeded by `https://uselessfacts.jsph.pl/` so for example:
 
